@@ -1,3 +1,9 @@
+### Repository Specifically gitIgnore
+*.hooklog
+MalAnalysis_package_Refactor/data/w32_mal_report
+MalAnalysis_package/data/w32_mal_report
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
