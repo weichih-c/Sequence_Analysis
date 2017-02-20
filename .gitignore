@@ -93,3 +93,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+MalAnalysis_package_Refactor/data/family
+MalAnalysis_package/data/family
+MalAnalysis_package_Refactor/output
+MalAnalysis_package/output
+MalAnalysis_package_Refactor/data
+MalAnalysis_package/data
