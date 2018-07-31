@@ -1,7 +1,7 @@
-### Repository Specifically gitIgnore
-*.hooklog
-MalAnalysis_package_Refactor/data/w32_mal_report
-MalAnalysis_package/data/w32_mal_report
+### Repository Only
+data/
+output/
+report/
 
 
 # Byte-compiled / optimized / DLL files
@@ -93,10 +93,4 @@ ENV/
 
 # Rope project settings
 .ropeproject
-MalAnalysis_package_Refactor/data/family
-MalAnalysis_package/data/family
-MalAnalysis_package_Refactor/output
-MalAnalysis_package/output
-MalAnalysis_package_Refactor/data
-MalAnalysis_package/data
-MalAnalysis_package_Refactor/pickle
+
